@@ -1,0 +1,15 @@
+top 
+#CDE9D6
+
+
+FAST MIDDLE
+#D2E4FD
+
+
+2ND MIDDLE
+#FFF1CB
+
+BOTTOM
+#F8D3CF
+
+#cce6ff
